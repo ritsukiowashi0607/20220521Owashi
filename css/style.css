@@ -1,0 +1,148 @@
+body{
+  max-width: 1000px;
+}
+
+
+.container{
+  width: 1000px;
+  margin: 0 auto;
+  color: white;
+}
+
+.top-wrapper{
+  background-image: url("../img/firstview.jpg");
+  background-size: cover;
+  height: 400px;
+  padding: 300px 0 10px 0;
+  text-align: center;
+}
+
+h1{
+  font-size: 40px;
+}
+
+.content{
+  text-align: center;
+}
+
+h2{
+  margin: 70px 0;
+  text-align: center;
+  font-size: 25px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin: 0 auto;
+}
+
+img {
+  width: 280px;
+  height: 200px;
+}
+
+.card {
+  width: 33%;
+}
+
+.text-box {
+  padding: 15px;
+}
+
+.content-img {
+  padding: 10px 0;
+  text-align: center;
+}
+
+.date {
+  font-size: 15px;
+  margin-top: -10px;
+  font-weight: bold;
+}
+
+.form_contents{
+  display: flex;
+  justify-content: center;
+}
+
+.input_sub{
+  text-align: center;
+}
+
+input{
+  margin-bottom: 10px;
+  width: 500px;
+}
+
+select{
+  margin-bottom: 5px;
+}
+
+th{
+  display: flex;
+  margin-right: 114px;
+  width: 113px;
+}
+
+textarea{
+  width: 500px;
+}
+
+input.sub{
+  padding: auto;
+}
+
+form{
+  width: 780px;
+}
+
+tr{
+  margin-bottom: 10px;
+}
+
+input.a{
+  width: 200px;
+  height: 30px;
+  background-color: #DCDCDC;
+  border: none;
+  margin-right: 10px;
+}
+
+input.b{
+  width: 200px;
+  height: 30px;
+  background-color: #00FA9A;
+  color: white;
+  border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* リセットCSSを読み込んで作成してください。
+ファーストビュー 高さ：400px 
+ファーストビュー 文字サイズ：40px 
+コンテンツ幅：1000px 
+フォームの幅：780px 
+ボタンの幅：200px 
+セクション毎の余白：70px */
